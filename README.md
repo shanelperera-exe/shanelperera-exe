@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Welcome to my GitHub profile!</h2>
+<h2 align="left">Welcome to my GitHub profile!  :octocat:</h2>
 
 ###
 
