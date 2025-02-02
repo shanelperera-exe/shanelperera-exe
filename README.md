@@ -51,7 +51,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" height="40" alt="matplotlib logo"  />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="seaborn logo"  />
+  <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20191835/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="40" alt="seaborn logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
