@@ -114,6 +114,9 @@
   <a href="https://x.com/shanelzzz" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" height="40" alt="X logo"  />
   </a>
+  <a href="https://hackernoon.com/u/shanelperera" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/38445269?s=280&v=4" height="40" alt="X logo"  />
+  </a>
 </div>
 
 ###
